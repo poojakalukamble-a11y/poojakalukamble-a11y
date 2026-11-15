@@ -1,10 +1,7 @@
 # Hi 👋, I'm Pooja Kamble
-
 ## Data Analyst | Business Analyst | Service Desk support Analyst
 
 Data-driven professional with 5+ years of experience in Customer Experience Operations and service desk (ITSM Management), Voice of Customer (VOC) Analysis, Quality Assurance, and Escalation Management, complemented by Data Analytics training and internship experience.
-
----
 
 ## 👩‍💻 About Me
 
@@ -13,8 +10,6 @@ Data-driven professional with 5+ years of experience in Customer Experience Oper
 - 📍 Based in Pune, Maharashtra, India
 - 🌱 Currently enhancing my skills in SQL, Power BI, Tableau, and Python
 - 🎯 Interested in Data Analyst, Business Intelligence Analyst, MIS Analyst, Operations Analyst, and Reporting Analyst roles
-
----
 
 ## 🛠️ Technical Skills
 
@@ -39,8 +34,6 @@ Data-driven professional with 5+ years of experience in Customer Experience Oper
 - Data Validation
 - Data Visualization
 
----
-
 ## 📊 Core Competencies
 
 - Data Analysis
@@ -54,8 +47,6 @@ Data-driven professional with 5+ years of experience in Customer Experience Oper
 - Voice of Customer (VOC) Analysis
 - Technical support Analytics
 - Process Improvement
-
----
 
 ## 📂 Featured Projects
 
@@ -72,8 +63,6 @@ Data-driven professional with 5+ years of experience in Customer Experience Oper
 - Developed SQL queries using joins, aggregations, and conditional logic.
 - Built KPI dashboards using SQL, Excel, Power BI, and Tableau.
 
----
-
 ## 💼 Professional Experience Highlights
 
 - 5+ Years in Technical support Operations
@@ -85,13 +74,9 @@ Data-driven professional with 5+ years of experience in Customer Experience Oper
 - Stakeholder Management
 - Process Improvement Initiatives
 
----
-
 ## 🎯 Career Objective
 
 Transforming data into actionable insights to support business growth and informed decision-making.
-
----
 
 ## 🚀 Currently Learning
 
@@ -100,8 +85,6 @@ Transforming data into actionable insights to support business growth and inform
 - Python for Data Analytics
 - Advanced Tableau
 - Business Intelligence Solutions
-
----
 
 ## 📫 Connect With Me
 
